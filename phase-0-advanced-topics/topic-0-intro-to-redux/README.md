@@ -22,7 +22,7 @@
 ### Refactor React Project
 |     |     |
 | --- | --- |
-| **Task** | Revisit your React Project. Refactor in order to use Redux to manage application state. Additionally, given your additional month of React experience, make any necessary changes or additions in order for it to be "portfolio ready." |
+| **Task** | Revisit your React New York Times Project. Refactor in order to use Redux to manage application state. Additionally, given your additional month of React experience, make any necessary changes or additions in order for it to be "portfolio ready." |
 | **Purpose** | To gain experience working with Redux in a more complex React application. |
 | **Due Date** | Friday, June 18 @ 8AM |
 | **Submission Guidelines** | Submit link to your repo through Canvas |
