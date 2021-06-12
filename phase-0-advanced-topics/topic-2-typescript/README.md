@@ -19,7 +19,7 @@
 | --- | --- |
 | **Task** | Complete 8 easy, 2 medium, and 1 hard exercise on the [exercism.io](https://exercism.io) TypeScript track. |
 | **Purpose** | You have been writing JavaScript for almost a year a year now. Thus, TypeScript will feel very familiar. That said, you will need some time to adjust to the new syntax and to understand new primitives such as interfaces, enums, and generics|
-| **Due Date** | Thursday, June 24 ⋅ 4:30 |
+| **Due Date** | Thursday, June 24 ⋅ 4:30pm |
 | **Submission Guidelines** | After you successfully complete each exercise, push it up to GitHub. Submit the repo link to Canvas. |
 
 ### Refactor Demo Day Project
@@ -27,6 +27,6 @@
 | --- | --- |
 | **Task** | Fork your Demo Day Project. Refactor as much of your project to incorporate TypeScript as you can. You must refactor at least three backend modules and three React components to use TypeScript. |
 | **Purpose** | To gain experience working with TypeScript in a complex React application. |
-| **Due Date** | Monday, June 28 ⋅ 8:00 |
+| **Due Date** | Monday, June 28 ⋅ 8:00am |
 | **Submission Guidelines** | Submit your Github repo through Canvas |
 
