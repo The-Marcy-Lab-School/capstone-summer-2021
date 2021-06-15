@@ -5,7 +5,7 @@
 * **Documentation**: [Official React Redux Docs](https://react-redux.js.org/) | [React-Redux NPM Package](https://www.npmjs.com/package/react-redux)
 
 * **DevTools Extention**: [Redux Dev Tools Docs](https://github.com/reduxjs/redux-devtools) | [Redux Developer Tools (Chrome Extention)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
-* 
+
 
 ## Seminar Questions
 * What is Redux and how is it used to manage state?
