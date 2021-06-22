@@ -22,10 +22,10 @@
 | **Due Date** | Wednesday, June 16 @ 5 PM
 | **Submission Guidelines** | Submit link to your repo through Canvas |
 
-### Refactor React Project
+### Tic Tac Toe React Project (with Redux!)
 |     |     |
 | --- | --- |
-| **Task** | Revisit your React New York Times Project. Refactor in order to use Redux to manage application state. Additionally, given your additional month of React experience, make any necessary changes or additions in order for it to be "portfolio ready." |
+| **Task** | Create a tic tac toe game with React using Redux as your state management library. Your game should support the following features <br /> - As a player I should be able to choose whether I am an X or O <br /> - I should be able to alternate turns with the computer  <br /> - A winner should be declared if a player wins, or else a tie should be declared <br /> - BONUS: add time traveling capabilities so that you can view the state of the board at any point in time |
 | **Purpose** | To gain experience working with Redux in a more complex React application. |
 | **Due Date** | Friday, June 18 @ 8AM |
 | **Submission Guidelines** | Submit link to your repo through Canvas |
