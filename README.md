@@ -7,3 +7,4 @@
 
 ## Code Challenges
 * 06/16: [Reverse a Linked List](https://us02web.zoom.us/rec/share/szJ_Jzp5W14FImdjpkCzkeE674q6wqV6MVfMN38oAGbYq8XQCevmZ2PMMIBtUhXd.lC0c756cdvRz_QRC)
+* 06/17: [Valid Brackets](https://us02web.zoom.us/rec/share/1iVfrIrzG9anbHr-FLpcWZGi1wN_x6jYlcOTKqSFNiIEgLjM-LCvT2vCa-PqGYgZ.Z4wf_IfAGg77qhw9)
