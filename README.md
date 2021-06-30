@@ -6,10 +6,13 @@
 * 06/18: [Redux Tic Tac Toe](https://us02web.zoom.us/rec/share/kiHM1caggMPDjDFdh_79-sgT7aQH3UV1dBoA8MyzAf2DL1tnRjwWb0FuTCEif9z6.4_bw182VWgubbSXJ?startTime=1624024303000)
 * 06/28: [TypeScript](https://us02web.zoom.us/rec/share/JLAFAdPMorw3h1PcEPKgTCFiT-Gx0w5rLJ-0C2dVyLQOcLjFbpyYbtkMJxiriHCO.WjLXT31c6elWEf0y?startTime=1624900063000)
 * 06/28: [Redux Debugging](https://us02web.zoom.us/rec/share/JLAFAdPMorw3h1PcEPKgTCFiT-Gx0w5rLJ-0C2dVyLQOcLjFbpyYbtkMJxiriHCO.WjLXT31c6elWEf0y?startTime=1624905384000)
+* 06/29: [TypeScript in React and Express](https://us02web.zoom.us/rec/share/Gv3v9505C5D6pRBx1ONwjBDUNAkgIBmYRVoGgpKZNqKCpq4XxXhcaUr2-5b5uFFk.Aa3q9em0zzVo-R5O?startTime=1624989817000)
+* 06/30: [Performance Testing](https://us02web.zoom.us/rec/share/BBe-R0Lt3rWu3kvW9iFfVSbTw4Sm4R2DCN4c21bzaA9yvLDXgu8TvDczknJX4lK8.enUzXz8HDTVQOpID?startTime=1625072819000)
 
 ## Code Challenges
 * 06/16: [Reverse a Linked List](https://us02web.zoom.us/rec/share/szJ_Jzp5W14FImdjpkCzkeE674q6wqV6MVfMN38oAGbYq8XQCevmZ2PMMIBtUhXd.lC0c756cdvRz_QRC)
 * 06/17: [Valid Brackets](https://us02web.zoom.us/rec/share/1iVfrIrzG9anbHr-FLpcWZGi1wN_x6jYlcOTKqSFNiIEgLjM-LCvT2vCa-PqGYgZ.Z4wf_IfAGg77qhw9)
 * 06/23: [Merge Two Sorted Linked LIsts](https://us02web.zoom.us/rec/share/07pXBJycDWYYk-fnyPLDf4s6pnTMaCBGbukHysgMw1DlaJhSzI3PqtpC3j1iTD9-.rzFHq4Vi3BMLT3-c?startTime=1624454396000)
 * 06/24: [Insert Value into Sorted Linked List](https://us02web.zoom.us/rec/share/266fVkTg_nVGZCLKFdNRGMaoYgaavOA2Bec9TJgbSHwWMMCQ329wtEvp4rHBimnO.zLHDjQI7F9by20iS?startTime=1624541323000)
-* 
+* 06/29: [Search in a BST](https://us02web.zoom.us/rec/share/DOuh70Dy7l9DzmM8XKuQFF87dh4chEr5ciWm7zGa68O9Mw_EauBsM3yV05rsbOTj.HkG6AGuPszlp33ih?startTime=1624973085000)
+* 06/30: [Range Sum of BST](https://us02web.zoom.us/rec/share/nAkTNWhdcKbzvYKcQ9QBAmJVM6QP-ApwS1fc079iI-x4gKkaiwxCN9caACUsjYB5.Yyu7jkaxrTjBmznq?startTime=1625059367000)
