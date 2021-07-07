@@ -10,6 +10,7 @@
 * 06/30: [Performance Testing](https://us02web.zoom.us/rec/share/BBe-R0Lt3rWu3kvW9iFfVSbTw4Sm4R2DCN4c21bzaA9yvLDXgu8TvDczknJX4lK8.enUzXz8HDTVQOpID?startTime=1625072819000)
 * 07/01: [React Web Tooling](https://us02web.zoom.us/rec/share/N1XMmIPQTCeS6dHx29blJrAxmZyKU116uxty9tN12RrAQzvaqOUTqAuCrllEI-ye.AkoLianp_lf_D1ID?startTime=1625159193000)
 * 07/02: [Technical Blog Writing](https://us02web.zoom.us/rec/share/FZTLeq0r_qSIGYPEht5D-onryXik5Xp2QmL7Pk03Yu9khiXs3kff4fjmkhO8ARiN.UPdwmAh3u2Zog85o?startTime=1625232958000)
+* 07/06: [Web Accessibility](https://us02web.zoom.us/rec/share/gIgAh1DT2_2bbRoLMeInRYqE5BsFjJQ4A8Z88KHWkKfKWMoZpaSGNt11S9j4-Jvr.W4sfPJ7CiWJl6_c4?startTime=1625591347000)
 
 ## Code Challenges
 * 06/16: [Reverse a Linked List](https://us02web.zoom.us/rec/share/szJ_Jzp5W14FImdjpkCzkeE674q6wqV6MVfMN38oAGbYq8XQCevmZ2PMMIBtUhXd.lC0c756cdvRz_QRC)
@@ -19,3 +20,5 @@
 * 06/29: [Search in a BST](https://us02web.zoom.us/rec/share/DOuh70Dy7l9DzmM8XKuQFF87dh4chEr5ciWm7zGa68O9Mw_EauBsM3yV05rsbOTj.HkG6AGuPszlp33ih?startTime=1624973085000)
 * 06/30: [Range Sum of BST](https://us02web.zoom.us/rec/share/nAkTNWhdcKbzvYKcQ9QBAmJVM6QP-ApwS1fc079iI-x4gKkaiwxCN9caACUsjYB5.Yyu7jkaxrTjBmznq?startTime=1625059367000)
 * 07/01: [Is Tree Symmetric](https://us02web.zoom.us/rec/share/_FqBFcShCyyOsBeaaRWcD5wzhQeuB0AEMhKNNJxe9a2cZyJaCMWrvvOv5IVGQbT1.AXmkpQIWCEbEis80?startTime=1625145859000)
+* 07/06: [Is Linked List Palindrome](https://us02web.zoom.us/rec/share/q4cLEHegehTzP26EZzMn6JmPeC_5sxEyhHoa2oAGTA5sNGjxkzD9S62Qu2D0HOEJ.-RkWmLKdkXRTeA-b?startTime=1625578138000)
+* 07/07: [Intersection of Two Linked lists](https://us02web.zoom.us/rec/share/lT070ZSVbqYy-pFQxy_pXpxfkMVwAAwPrHcZuxYuiuNKHZ_--IjpnO9OGUHFW_c.xg3EOQRm7G6NlGdP?startTime=1625664569000)
