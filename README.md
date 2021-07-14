@@ -11,10 +11,10 @@
 * 07/01: [React Web Tooling](https://us02web.zoom.us/rec/share/N1XMmIPQTCeS6dHx29blJrAxmZyKU116uxty9tN12RrAQzvaqOUTqAuCrllEI-ye.AkoLianp_lf_D1ID?startTime=1625159193000)
 * 07/02: [Technical Blog Writing](https://us02web.zoom.us/rec/share/FZTLeq0r_qSIGYPEht5D-onryXik5Xp2QmL7Pk03Yu9khiXs3kff4fjmkhO8ARiN.UPdwmAh3u2Zog85o?startTime=1625232958000)
 * 07/06: [Web Accessibility](https://us02web.zoom.us/rec/share/gIgAh1DT2_2bbRoLMeInRYqE5BsFjJQ4A8Z88KHWkKfKWMoZpaSGNt11S9j4-Jvr.W4sfPJ7CiWJl6_c4?startTime=1625591347000)
-* 07/08: [Web Scalability: Core Concepts]()
-* 07/09: [Web Scalability: Good Software Design]()
-* 07/12: [Building the Front Layer]
-* 07/13: [Building the Front Layer/Web Services]()
+* 07/08: [Web Scalability: Core Concepts](https://us02web.zoom.us/rec/share/VWWyGOMqFpISwgZ4nZn39OloBC0j8NRyE6JfP8-XvaxBUDxbAFjFWIXyG0rX9v50.qInZji9a3K-xyjOv?startTime=1625764406000)
+* 07/09: [Web Scalability: Good Software Design](https://us02web.zoom.us/rec/share/pi-LKT3F8POl0IpzxxmpHxsg16ft2dfv4SgbfULHU4XA_Du-blw_mtI66g_C51RJ.M5uZS4sk6e91I10H?startTime=1625837776000)
+* 07/12: [Building the Front Layer](https://us02web.zoom.us/rec/share/yJPsOiNOxTPtcGAVCZlhkI4runXcCqsKPxewlbSTcwAPIGd8Okpm3RxlJYADCkM.uZb36R6tmKNmYZwC?startTime=1626109602000)
+* 07/13: [Building the Front Layer/Web Services](https://us02web.zoom.us/rec/share/eqhgged6YGa-Ql8itHxe1QtKdeIWfgS1ZBm5_zhb7hEv4pPTHaXnMkQEpqZY-0k_.0Vv9gCmo4Pbh3kDK?startTime=1626196485000)
 
 ## Code Challenges
 * 06/16: [Reverse a Linked List](https://us02web.zoom.us/rec/share/szJ_Jzp5W14FImdjpkCzkeE674q6wqV6MVfMN38oAGbYq8XQCevmZ2PMMIBtUhXd.lC0c756cdvRz_QRC)
